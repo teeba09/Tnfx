@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "ged";
+    src: url("/GEDinarOne-Medium.otf");
+  }
+
+  *{
+    font-family: "ged";
+  }
