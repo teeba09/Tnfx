@@ -5,8 +5,18 @@
 @font-face {
     font-family: "ged";
     src: url("/GEDinarOne-Medium.otf");
+
   }
 
-  *{
-    font-family: "ged";
+  @font-face {
+    font-family: "gedlight";
+    src: url("/GE-Dinar-One-Light.otf");
   }
+  /* *{
+    font-family: "ged";
+  } */
+/* @font-face {
+    font-family: "Boing";
+    src: url("/Boing.ttf");
+    
+  } */
